@@ -1,0 +1,26 @@
+{
+  "name": "sisdistmobile_1_2025_quarta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LPDig25v1/SisDistMobile_1_2025_Quarta.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/LPDig25v1/SisDistMobile_1_2025_Quarta/issues"
+  },
+  "homepage": "https://github.com/LPDig25v1/SisDistMobile_1_2025_Quarta#readme",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0",
+    "lowdb": "^7.0.1"
+  }
+}
